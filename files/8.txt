@@ -1,0 +1,12 @@
+Archicad released its first file exchange based Teamwork solution in its version 5.1 in 1997, which allowed more architects
+to work on the same building model simultaneously. A completely rewritten Teamwork "2.0" solution with a new database approach
+came out in version 13 in 2009 named Graphisoft BIM Server. Since only the changes and differences are sent to the central storage,
+this solution allows remote access to the same project over the Internet, thus allowing worldwide project collaboration and coordination.
+In 2014, with the introduction of the BIMcloud, better integration is provided with standard IT solutions: browser-based management, LDAP
+connection, and HTTP/HTTPS based communication. Also, new scalability options are available, by allowing multi-server layouts to be created,
+with optional caching servers. Third-party vendors and some manufacturers of architectural products have compiled libraries of architectural
+components for use in Archicad. The program includes Geometric Description Language used to create new components. Also, API
+and ODBC database connections are supported for third party Add-On developers. Via direct API links to 4D
+and 5D software such as Vico Office Suite or Tocoman iLink, the Archicad model can be exported to BIM-based cost estimation and scheduling. Archicad
+is also directly linked via API to Solibri's Model checking and quality assurance tools.In addition, Graphisoft provides a direct link to Grasshopper
+3D enabling a visual programming environment for parametric modelling and design. 

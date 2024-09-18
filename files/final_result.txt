@@ -1,0 +1,2128 @@
+<information;doc1:0,5,12,20,;  doc2:119,286,303,348,;  >DF:2
+
+<retrieval;doc1:1,;  doc2:3,42,74,126,132,217,;  >DF:2
+
+<computing;doc1:3,;  >DF:1
+
+<science;doc1:6,;  >DF:1
+
+<process;doc1:9,;  doc2:91,;  doc3:116,;  doc4:189,;  >DF:4
+
+<obtaining;doc1:11,;  >DF:1
+
+<system;doc1:13,;  doc2:4,8,314,432,451,;  doc4:104,;  >DF:3
+
+<resources;doc1:14,;  >DF:1
+
+<;doc2:315,;  doc3:2,8,82,101,112,197,206,298,317,;  doc4:227,297,;  >DF:3
+
+<that;doc1:15,;  doc2:66,137,330,368,;  doc3:262,;  doc4:7,201,;  >DF:4
+
+<relevant;doc1:17,;  >DF:1
+
+<need;doc1:21,;  >DF:1
+
+<3d;doc2:1,26,40,49,68,82,102,107,118,124,142,146,198,216,285,306,311,;  doc4:219,271,355,;  >DF:2
+
+<content;doc2:2,41,50,55,69,108,125,;  doc3:252,;  >DF:2
+
+<computer;doc2:7,;  doc3:125,238,296,;  >DF:2
+
+<browsing;doc2:10,;  >DF:1
+
+<searching;doc2:11,;  >DF:1
+
+<retrieving;doc2:13,;  >DF:1
+
+<three;doc2:14,;  >DF:1
+
+<dimensional;doc2:15,;  >DF:1
+
+<digital;doc2:32,;  doc3:251,;  >DF:2
+
+<contents;doc2:103,;  >DF:1
+
+<eg;doc2:17,;  >DF:1
+
+<computer-aided;doc2:18,;  doc3:0,80,314,341,;  >DF:2
+
+<design;doc2:19,;  doc3:1,19,34,85,104,110,131,192,226,303,316,;  doc4:157,369,436,;  >DF:3
+
+<molecular;doc2:20,;  >DF:1
+
+<biology;doc2:21,;  >DF:1
+
+<models;doc2:22,147,199,;  doc3:306,;  doc4:68,325,;  >DF:3
+
+<cultural;doc2:24,;  >DF:1
+
+<heritage;doc2:25,;  >DF:1
+
+<scenes;doc2:27,;  >DF:1
+
+<etcfrom;doc2:28,;  >DF:1
+
+<large;>DF:0
+
+<database;doc2:412,448,;  doc3:43,;  >DF:2
+
+<images;doc2:33,;  >DF:1
+
+<most;doc2:35,345,;  >DF:1
+
+<original;doc2:36,;  doc4:388,;  >DF:2
+
+<way;doc2:37,;  doc4:291,;  >DF:2
+
+<doing;doc2:39,;  >DF:1
+
+<uses;doc2:43,167,;  doc3:132,;  >DF:2
+
+<methods;doc2:44,242,282,;  >DF:1
+
+<add;doc2:46,;  doc4:252,;  >DF:2
+
+<description;doc2:47,409,;  >DF:1
+
+<text;doc2:59,73,99,;  >DF:1
+
+<files;doc2:51,83,;  doc3:70,;  >DF:2
+
+<such;doc2:52,262,426,;  doc4:255,;  >DF:2
+
+<as;doc2:53,263,427,;  doc3:98,108,161,178,;  doc4:45,115,210,256,309,368,444,;  >DF:3
+
+<file;doc2:56,;  >DF:1
+
+<name;doc2:57,;  >DF:1
+
+<link;doc2:58,;  >DF:1
+
+<web;doc2:62,;  >DF:1
+
+<page;doc2:63,;  >DF:1
+
+<title;doc2:64,;  >DF:1
+
+<so;doc2:65,;  >DF:1
+
+<related;doc2:67,;  >DF:1
+
+<can;doc2:226,336,392,419,459,;  doc4:60,84,105,207,319,380,;  >DF:2
+
+<found;doc2:71,;  >DF:1
+
+<through;doc2:72,;  doc3:37,;  doc4:32,;  >DF:3
+
+<because;doc2:75,;  doc3:279,;  >DF:2
+
+<inefficiency;doc2:78,;  >DF:1
+
+<manually;doc2:80,;  doc4:233,;  >DF:2
+
+<annotating;doc2:81,;  >DF:1
+
+<researchers;doc2:84,290,;  >DF:1
+
+<have;doc2:85,127,;  doc4:249,302,;  >DF:2
+
+<investigated;>DF:0
+
+<ways;doc2:115,;  >DF:1
+
+<automate;doc2:88,;  >DF:1
+
+<annotation;doc2:90,;  >DF:1
+
+<provide;doc2:93,;  doc4:183,;  >DF:2
+
+<unified;doc2:95,;  >DF:1
+
+<standard;doc2:96,209,236,;  >DF:1
+
+<create;doc2:98,;  doc3:41,;  >DF:2
+
+<descriptions;doc2:100,;  >DF:1
+
+<moreover;>DF:0
+
+<increase;doc2:105,;  doc3:25,;  >DF:2
+
+<has;doc2:109,;  doc3:286,;  doc4:37,230,241,;  >DF:3
+
+<demanded;doc2:110,;  >DF:1
+
+<inspired;doc2:112,;  >DF:1
+
+<more;doc2:113,220,464,;  doc3:157,230,;  >DF:2
+
+<advanced;doc2:114,;  >DF:1
+
+<retrieve;doc2:117,;  >DF:1
+
+<thus;doc2:120,;  >DF:1
+
+<shape;doc2:121,130,253,347,;  doc4:91,;  >DF:2
+
+<matching;doc2:122,131,169,;  >DF:1
+
+<become;doc2:128,;  >DF:1
+
+<popular;doc2:129,;  >DF:1
+
+<based;doc2:134,;  >DF:1
+
+<techniques;doc2:136,170,;  doc3:271,;  >DF:2
+
+<compare;doc2:138,176,;  >DF:1
+
+<contrast;doc2:140,;  >DF:1
+
+<similarities;>DF:0
+
+<between;doc4:349,;  >DF:1
+
+<modelsthis;doc2:143,;  >DF:1
+
+<method;doc2:144,180,213,218,;  >DF:1
+
+<describes;doc2:145,;  >DF:1
+
+<by;doc2:148,292,352,435,;  doc3:274,;  doc4:383,;  >DF:3
+
+<using;doc2:149,270,280,353,379,423,;  doc4:47,274,421,;  >DF:2
+
+<skeleton;doc2:151,153,212,215,229,360,378,;  >DF:1
+
+<encodes;doc2:154,;  >DF:1
+
+<geometric;doc2:156,;  doc3:305,315,;  doc4:300,423,460,;  >DF:3
+
+<topological;doc2:158,381,;  >DF:1
+
+<form;doc2:161,;  >DF:1
+
+<skeletal;doc2:164,373,441,;  >DF:1
+
+<graph;doc2:165,168,374,391,;  >DF:1
+
+<match;doc2:172,;  >DF:1
+
+<skeletons;doc2:174,;  >DF:1
+
+<them;doc2:177,;  doc4:155,308,;  >DF:2
+
+<however;doc2:178,;  >DF:1
+
+<this;doc2:179,326,;  doc3:20,;  doc4:431,;  >DF:3
+
+<requires;doc2:232,;  >DF:1
+
+<2-manifold;doc2:182,;  >DF:1
+
+<input;doc2:183,207,239,251,;  >DF:1
+
+<model;doc2:184,;  doc4:80,277,415,;  >DF:2
+
+<very;doc2:188,;  >DF:1
+
+<sensitive;doc2:189,;  >DF:1
+
+<noise;doc2:191,;  >DF:1
+
+<details;doc2:193,;  >DF:1
+
+<many;doc2:194,;  doc3:215,229,;  doc4:168,270,;  >DF:3
+
+<existing;doc2:197,;  doc4:2,;  >DF:2
+
+<created;doc2:201,269,304,;  doc4:288,391,;  >DF:2
+
+<visualization;doc2:203,;  >DF:1
+
+<purposes;>DF:0
+
+<while;doc4:458,;  >DF:1
+
+<missing;doc2:205,;  >DF:1
+
+<quality;doc2:208,235,;  >DF:1
+
+<needs;doc2:219,;  >DF:1
+
+<time;doc2:221,;  >DF:1
+
+<effort;doc2:223,;  >DF:1
+
+<before;doc2:224,;  >DF:1
+
+<used;doc3:23,58,190,235,321,;  doc4:62,86,107,;  >DF:2
+
+<widelyunlike;doc2:228,;  >DF:1
+
+<modeling;doc2:230,;  doc4:97,358,;  >DF:2
+
+<which;doc2:231,335,;  doc3:113,340,;  doc4:50,;  >DF:3
+
+<high;doc2:234,;  >DF:1
+
+<source;doc2:240,252,;  >DF:1
+
+<statistical;doc2:241,281,;  >DF:1
+
+<do;doc2:243,;  >DF:1
+
+<not;doc2:244,;  >DF:1
+
+<put;doc2:245,;  >DF:1
+
+<restriction;>DF:0
+
+<validity;doc2:248,;  >DF:1
+
+<histograms;doc2:254,;  >DF:1
+
+<feature;doc2:255,267,424,438,;  doc4:394,417,;  >DF:2
+
+<vectors;doc2:256,268,425,439,;  >DF:1
+
+<composed;doc2:257,;  >DF:1
+
+<global;doc2:259,;  >DF:1
+
+<geo-metic;doc2:260,;  >DF:1
+
+<properties;doc2:261,;  doc4:49,123,;  >DF:2
+
+<circularity;doc2:264,;  >DF:1
+
+<eccentricity;>DF:0
+
+<frequency;doc2:271,;  >DF:1
+
+<decomposition;doc2:272,;  >DF:1
+
+<spherical;doc2:274,;  >DF:1
+
+<functions;doc2:275,;  doc4:446,;  >DF:2
+
+<common;doc2:277,389,;  >DF:1
+
+<examples;doc2:278,;  >DF:1
+
+<describe;doc2:284,421,;  >DF:1
+
+<purdue;doc2:288,;  >DF:1
+
+<university;doc2:289,;  >DF:1
+
+<led;doc2:291,;  >DF:1
+
+<professor;doc2:293,417,;  >DF:1
+
+<karthik;doc2:294,;  >DF:1
+
+<ramani;doc2:295,;  >DF:1
+
+<at;doc2:296,;  >DF:1
+
+<research;doc2:298,;  doc3:293,;  >DF:2
+
+<education;doc2:300,;  >DF:1
+
+<center;doc2:301,;  doc4:402,412,;  >DF:2
+
+<search;doc2:307,313,327,;  >DF:1
+
+<engine;doc2:308,328,;  >DF:1
+
+<called;doc2:309,;  doc3:249,313,;  >DF:2
+
+<engineering;doc2:312,322,;  doc3:169,;  doc4:282,;  >DF:3
+
+<designed;doc2:318,;  doc3:153,;  >DF:2
+
+<find;doc2:320,;  >DF:1
+
+<computer-generated;doc2:321,;  >DF:1
+
+<partsthe;doc2:323,;  >DF:1
+
+<mechanism;doc2:324,;  >DF:1
+
+<behind;doc2:325,;  >DF:1
+
+<starts;doc2:332,;  >DF:1
+
+<algorithm;doc2:334,355,;  >DF:1
+
+<transform;doc2:337,;  >DF:1
+
+<query;doc2:338,457,;  >DF:1
+
+<drawing;doc2:339,;  doc3:120,;  doc4:188,199,237,283,;  >DF:3
+
+<voxels;doc2:341,351,;  >DF:1
+
+<then;doc2:342,;  >DF:1
+
+<extracts;doc2:343,;  >DF:1
+
+<important;doc2:346,;  doc3:210,;  >DF:2
+
+<another;doc2:354,;  >DF:1
+
+<thinning;>DF:0
+
+<formulates;doc2:358,;  >DF:1
+
+<object’s;doc2:363,;  >DF:1
+
+<outlines;doc2:364,;  >DF:1
+
+<topology;doc2:366,;  >DF:1
+
+<after;doc2:367,;  >DF:1
+
+<3dess;doc2:369,418,;  >DF:1
+
+<will;doc2:370,;  doc4:9,;  >DF:2
+
+<develop;doc2:371,;  >DF:1
+
+<render;doc2:376,;  >DF:1
+
+<constructs;doc2:382,390,;  >DF:1
+
+<loops;doc2:383,;  >DF:1
+
+<edges;doc2:384,;  >DF:1
+
+<nodes;doc2:386,;  >DF:1
+
+<processed;doc2:388,;  >DF:1
+
+<reduce;doc2:393,;  >DF:1
+
+<data;doc2:395,444,;  >DF:1
+
+<amount;doc2:396,;  >DF:1
+
+<represent;doc2:398,;  doc4:5,;  >DF:2
+
+<object;doc2:400,462,;  doc4:424,;  >DF:2
+
+<easier;>DF:0
+
+<store;doc2:405,;  >DF:1
+
+<index;doc2:407,;  >DF:1
+
+<according;doc2:413,;  doc3:184,;  >DF:2
+
+<lead;doc2:416,;  >DF:1
+
+<also;doc2:420,;  doc3:89,144,233,320,;  doc4:29,124,;  >DF:3
+
+<objects;doc2:422,;  doc3:138,154,;  doc4:296,315,372,;  >DF:3
+
+<volume;>DF:0
+
+<surface;>DF:0
+
+<area;doc2:429,;  doc4:75,;  >DF:2
+
+<etc;doc2:430,;  doc4:137,;  >DF:2
+
+<processes;doc2:433,;  doc3:180,;  >DF:2
+
+<queries;doc2:434,;  >DF:1
+
+<comparing;doc2:436,;  >DF:1
+
+<their;doc2:437,;  doc4:158,341,344,;  >DF:2
+
+<graphs;doc2:442,;  >DF:1
+
+<with;doc2:443,;  doc3:121,;  doc4:245,;  >DF:3
+
+<stored;doc2:445,;  >DF:1
+
+<when;doc2:449,;  doc3:57,;  >DF:2
+
+<retrieves;>DF:0
+
+<response;doc2:454,;  >DF:1
+
+<users;doc2:458,;  >DF:1
+
+<pick;doc2:460,;  >DF:1
+
+<whichever;doc2:461,;  >DF:1
+
+<looks;doc2:463,;  >DF:1
+
+<similar;doc2:465,;  doc4:264,;  >DF:2
+
+<what;doc2:467,;  doc4:6,364,;  >DF:2
+
+<they;doc2:468,;  >DF:1
+
+<want;doc2:469,;  >DF:1
+
+<leave;doc2:471,;  >DF:1
+
+<feedback;doc2:472,;  >DF:1
+
+<use;doc3:5,91,123,;  doc4:34,154,363,;  >DF:2
+
+<computers;doc3:7,260,;  >DF:1
+
+<aid;doc3:10,;  >DF:1
+
+<creation;doc3:13,253,325,;  doc4:214,;  >DF:2
+
+<modification;doc3:14,;  >DF:1
+
+<analysis;>DF:0
+
+<optimization;doc3:16,;  >DF:1
+
+<software;doc3:21,49,126,128,;  >DF:1
+
+<productivity;doc3:27,;  >DF:1
+
+<designer;doc3:30,;  >DF:1
+
+<improve;doc3:31,35,;  >DF:1
+
+<communications;doc3:36,;  >DF:1
+
+<documentation;doc3:38,;  >DF:1
+
+<manufacturing;doc3:45,76,;  >DF:1
+
+<designs;doc3:46,342,;  doc4:441,;  >DF:2
+
+<made;doc3:47,;  doc4:382,;  >DF:2
+
+<cad;doc3:62,127,174,231,285,318,;  doc4:103,144,;  >DF:2
+
+<helpful;doc3:51,;  >DF:1
+
+<protecting;doc3:53,;  >DF:1
+
+<products;doc3:54,;  >DF:1
+
+<inventions;doc3:56,;  >DF:1
+
+<patent;doc3:60,;  >DF:1
+
+<applications;doc3:61,216,;  >DF:1
+
+<output;doc3:63,172,;  >DF:1
+
+<often;doc3:65,330,;  >DF:1
+
+<electronic;doc3:69,94,99,;  >DF:1
+
+<print;doc3:72,;  >DF:1
+
+<machining;doc3:73,;  >DF:1
+
+<other;doc3:75,;  >DF:1
+
+<operations;doc3:77,;  >DF:1
+
+<terms;doc3:79,;  >DF:1
+
+<drafting;doc3:81,87,141,165,;  doc4:204,226,;  >DF:2
+
+<aided;doc3:84,;  >DF:1
+
+<usedits;doc3:90,;  >DF:1
+
+<designing;doc3:93,;  >DF:1
+
+<systems;doc3:95,;  doc4:272,;  >DF:2
+
+<known;doc3:97,107,;  >DF:1
+
+<automation;doc3:111,;  >DF:1
+
+<mechanical;doc3:103,109,130,;  >DF:1
+
+<includes;doc3:114,;  >DF:1
+
+<creating;>DF:0
+
+<technical;doc3:119,167,247,;  >DF:1
+
+<either;doc3:133,;  >DF:1
+
+<vector-based;doc3:134,;  >DF:1
+
+<graphics;doc3:135,147,297,;  >DF:1
+
+<depict;>DF:0
+
+<traditional;doc3:140,;  >DF:1
+
+<may;doc3:143,188,;  >DF:1
+
+<produce;doc3:145,237,;  >DF:1
+
+<raster;doc3:146,;  >DF:1
+
+<showing;doc3:148,;  >DF:1
+
+<overall;doc3:150,;  >DF:1
+
+<appearance;doc3:151,;  >DF:1
+
+<involves;doc3:156,;  >DF:1
+
+<than;doc3:158,;  doc4:77,;  >DF:2
+
+<just;doc3:159,;  >DF:1
+
+<shapes;doc3:160,;  >DF:1
+
+<manual;doc3:164,;  >DF:1
+
+<drawings;doc3:170,;  >DF:1
+
+<must;doc3:175,;  >DF:1
+
+<convey;doc3:176,;  >DF:1
+
+<materials;doc3:179,;  >DF:1
+
+<dimensions;doc3:181,;  >DF:1
+
+<tolerances;doc3:183,;  >DF:1
+
+<application-specific;doc3:186,;  >DF:1
+
+<conventionscad;doc3:187,;  >DF:1
+
+<curves;doc3:193,200,;  >DF:1
+
+<figures;>DF:0
+
+<two-dimensional;doc3:196,;  doc4:316,;  >DF:2
+
+<space;;doc3:198,;  >DF:1
+
+<surfaces;doc3:201,;  >DF:1
+
+<solids;doc3:203,;  doc4:286,;  >DF:2
+
+<three-dimensional;doc3:205,;  doc4:299,;  >DF:2
+
+<space cad;doc3:207,;  >DF:1
+
+<industrial;doc3:211,223,;  >DF:1
+
+<art;doc3:212,;  >DF:1
+
+<extensively;>DF:0
+
+<including;doc3:217,;  >DF:1
+
+<automotive;doc3:218,;  >DF:1
+
+<shipbuilding;doc3:219,;  >DF:1
+
+<aerospace;doc3:221,;  >DF:1
+
+<industries;doc3:222,;  >DF:1
+
+<architectural;doc3:225,;  >DF:1
+
+<prosthetics;doc3:227,;  >DF:1
+
+<widely;doc3:234,;  >DF:1
+
+<animation;doc3:239,;  >DF:1
+
+<special;doc3:241,;  >DF:1
+
+<effects;doc3:242,;  >DF:1
+
+<movies;doc3:244,;  >DF:1
+
+<advertising;doc3:245,;  >DF:1
+
+<manuals;>DF:0
+
+<dcc;doc3:250,;  >DF:1
+
+<modern;doc3:255,;  >DF:1
+
+<ubiquity;doc3:256,;  >DF:1
+
+<power;doc3:258,;  >DF:1
+
+<means;doc3:261,;  >DF:1
+
+<even;doc3:263,;  >DF:1
+
+<perfume;doc3:264,;  >DF:1
+
+<bottles;doc3:265,;  >DF:1
+
+<shampoo;doc3:267,;  >DF:1
+
+<dispensers;doc3:268,;  >DF:1
+
+<unheard;doc3:272,;  >DF:1
+
+<engineers;doc3:275,;  doc4:44,;  >DF:2
+
+<1960s;doc3:278,;  >DF:1
+
+<its;doc3:281,;  doc4:125,;  >DF:2
+
+<enormous;doc3:282,;  >DF:1
+
+<economic;doc3:283,;  >DF:1
+
+<importance;doc3:284,;  >DF:1
+
+<been;doc3:287,;  doc4:38,;  >DF:2
+
+<major;doc3:289,;  >DF:1
+
+<driving;doc3:290,;  >DF:1
+
+<force;doc3:291,;  >DF:1
+
+<computational;>DF:0
+
+<geometry;doc3:295,;  >DF:1
+
+<discrete;doc3:300,;  >DF:1
+
+<differential;doc3:301,;  >DF:1
+
+<geometrythe;doc3:302,;  >DF:1
+
+<particular;doc3:310,;  >DF:1
+
+<occasionally;doc3:312,;  >DF:1
+
+<accurate;doc3:324,;  >DF:1
+
+<photo;doc3:327,;  >DF:1
+
+<simulations;>DF:0
+
+<required;doc3:331,;  doc4:211,;  >DF:2
+
+<preparation;doc3:334,;  >DF:1
+
+<environmental;doc3:336,;  >DF:1
+
+<impact;doc3:337,;  >DF:1
+
+<reports;doc3:338,;  >DF:1
+
+<intended;doc3:344,;  doc4:396,;  >DF:2
+
+<buildings;doc3:345,;  >DF:1
+
+<superimposed;doc3:347,;  >DF:1
+
+<into;doc3:348,;  doc4:66,235,;  >DF:2
+
+<photographs;doc4:0,;  >DF:1
+
+<environments;doc4:3,;  >DF:1
+
+<locale;doc4:8,;  >DF:1
+
+<like;doc4:11,;  >DF:1
+
+<where;doc4:12,;  >DF:1
+
+<proposed;doc4:14,;  >DF:1
+
+<facilities;doc4:15,;  >DF:1
+
+<allowed;>DF:0
+
+<built;doc4:19,;  >DF:1
+
+<potential;doc4:20,;  >DF:1
+
+<blockage;doc4:21,;  >DF:1
+
+<view;doc4:23,;  >DF:1
+
+<corridors;doc4:24,;  >DF:1
+
+<shadow;doc4:26,;  >DF:1
+
+<studies;doc4:27,;  >DF:1
+
+<frequently;doc4:30,;  >DF:1
+
+<analyzed;doc4:31,;  >DF:1
+
+<proven;doc4:39,;  >DF:1
+
+<useful;doc4:42,;  >DF:1
+
+<well;doc4:46,;  >DF:1
+
+<four;doc4:48,;  >DF:1
+
+<history;doc4:52,59,;  >DF:1
+
+<features;doc4:53,70,100,250,374,;  >DF:1
+
+<parameterization;>DF:0
+
+<high-level;doc4:55,;  >DF:1
+
+<constraints;doc4:56,83,;  >DF:1
+
+<construction;doc4:58,;  >DF:1
+
+<look;doc4:64,;  >DF:1
+
+<back;doc4:65,;  >DF:1
+
+<personal;doc4:69,;  >DF:1
+
+<work;doc4:72,;  >DF:1
+
+<single;doc4:74,;  >DF:1
+
+<rather;doc4:76,;  >DF:1
+
+<whole;doc4:79,;  >DF:1
+
+<parameters;doc4:81,;  >DF:1
+
+<determine;doc4:88,;  >DF:1
+
+<size;doc4:90,;  >DF:1
+
+<different;doc4:96,141,163,;  >DF:1
+
+<elements;doc4:98,;  >DF:1
+
+<variety;doc4:110,;  >DF:1
+
+<tools;doc4:112,331,;  >DF:1
+
+<measurement;>DF:0
+
+<tensile;doc4:116,;  >DF:1
+
+<strength;doc4:117,119,;  >DF:1
+
+<yield;doc4:118,;  >DF:1
+
+<electrical;doc4:120,;  >DF:1
+
+<electromagnetic;doc4:122,;  >DF:1
+
+<stress;doc4:126,;  >DF:1
+
+<strain;doc4:127,;  >DF:1
+
+<timing;doc4:128,;  >DF:1
+
+<how;doc4:130,152,386,;  >DF:1
+
+<element;>DF:0
+
+<gets;>DF:0
+
+<affected;doc4:133,;  >DF:1
+
+<certain;doc4:135,;  >DF:1
+
+<temperatures;doc4:136,;  >DF:1
+
+<there;doc4:138,;  >DF:1
+
+<several;doc4:140,;  >DF:1
+
+<types;doc4:142,353,;  >DF:1
+
+<each;doc4:145,228,;  >DF:1
+
+<requiring;doc4:146,;  >DF:1
+
+<operator;doc4:148,259,361,406,440,;  >DF:1
+
+<think;doc4:150,;  >DF:1
+
+<differently;>DF:0
+
+<about;>DF:0
+
+<virtual;doc4:159,;  >DF:1
+
+<components;doc4:160,339,;  >DF:1
+
+<manner;doc4:164,;  >DF:1
+
+<eachthere;doc4:166,;  >DF:1
+
+<producers;doc4:169,;  >DF:1
+
+<lower-end;doc4:172,;  >DF:1
+
+<2d;doc4:173,225,;  >DF:1
+
+<number;doc4:176,;  >DF:1
+
+<free;doc4:178,;  >DF:1
+
+<open-source;doc4:180,;  >DF:1
+
+<programs;doc4:181,;  >DF:1
+
+<these;doc4:182,206,261,;  >DF:1
+
+<approach;doc4:185,;  >DF:1
+
+<without;doc4:190,;  >DF:1
+
+<all;doc4:191,;  >DF:1
+
+<fuss;doc4:193,;  >DF:1
+
+<over;doc4:194,;  >DF:1
+
+<scale;doc4:195,;  >DF:1
+
+<placement;>DF:0
+
+<sheet;doc4:200,;  >DF:1
+
+<accompanied;doc4:202,;  >DF:1
+
+<hand;doc4:203,;  >DF:1
+
+<since;doc4:205,;  >DF:1
+
+<adjusted;doc4:209,;  >DF:1
+
+<during;doc4:212,;  >DF:1
+
+<final;doc4:217,239,281,;  >DF:1
+
+<draft;doc4:218,;  >DF:1
+
+<wireframe;doc4:220,276,;  >DF:1
+
+<basically;>DF:0
+
+<extension;doc4:223,;  >DF:1
+
+<line;doc4:229,;  >DF:1
+
+<inserted;doc4:234,;  >DF:1
+
+<product;doc4:240,;  >DF:1
+
+<no;doc4:242,;  >DF:1
+
+<mass;>DF:0
+
+<associated;doc4:244,;  >DF:1
+
+<cannot;doc4:248,;  >DF:1
+
+<directly;doc4:251,;  >DF:1
+
+<holes;doc4:257,;  >DF:1
+
+<approaches;doc4:260,;  >DF:1
+
+<fashion;doc4:265,;  >DF:1
+
+<although;doc4:269,;  >DF:1
+
+<allow;doc4:273,334,;  >DF:1
+
+<make;doc4:279,453,;  >DF:1
+
+<views3d;doc4:284,;  >DF:1
+
+<dumb;doc4:285,;  >DF:1
+
+<analogous;>DF:0
+
+<manipulations;doc4:293,;  >DF:1
+
+<real-world;doc4:295,314,;  >DF:1
+
+<basic;doc4:298,326,;  >DF:1
+
+<forms;doc4:301,;  >DF:1
+
+<solid;doc4:303,356,;  >DF:1
+
+<volumes;>DF:0
+
+<added;>DF:0
+
+<subtracted;doc4:306,;  >DF:1
+
+<assembling;doc4:311,;  >DF:1
+
+<cutting;doc4:313,;  >DF:1
+
+<projected;doc4:317,;  >DF:1
+
+<views;doc4:318,;  >DF:1
+
+<easily;doc4:320,333,;  >DF:1
+
+<generated;doc4:322,;  >DF:1
+
+<dont;doc4:328,;  >DF:1
+
+<usually;doc4:329,;  >DF:1
+
+<include;doc4:330,;  >DF:1
+
+<motion;doc4:336,345,;  >DF:1
+
+<set;doc4:340,;  >DF:1
+
+<limits;doc4:342,;  >DF:1
+
+<identify;doc4:347,;  >DF:1
+
+<interference;doc4:348,;  >DF:1
+
+<two;doc4:352,;  >DF:1
+
+<modelingparametric;doc4:357,;  >DF:1
+
+<allows;doc4:359,;  >DF:1
+
+<referred;doc4:366,;  >DF:1
+
+<intent;doc4:370,437,;  >DF:1
+
+<modifiable;>DF:0
+
+<any;doc4:377,422,;  >DF:1
+
+<future;doc4:378,;  >DF:1
+
+<modifications;doc4:379,;  >DF:1
+
+<changing;doc4:384,;  >DF:1
+
+<part;doc4:389,429,443,457,;  >DF:1
+
+<was;doc4:390,395,;  >DF:1
+
+<located;doc4:399,420,;  >DF:1
+
+<should;doc4:407,;  >DF:1
+
+<locate;doc4:408,;  >DF:1
+
+<could;doc4:418,;  >DF:1
+
+<already;doc4:425,;  >DF:1
+
+<available;doc4:426,;  >DF:1
+
+<but;doc4:430,;  >DF:1
+
+<random;doc4:432,;  >DF:1
+
+<would;>DF:0
+
+<defeat;doc4:434,;  >DF:1
+
+<parametric;doc4:448,;  >DF:1
+
+<modeler;doc4:449,;  >DF:1
+
+<able;doc4:451,;  >DF:1
+
+<changes;doc4:454,;  >DF:1
+
+<maintaining;doc4:459,;  >DF:1
+
+<functional;>DF:0
+
+<relationships;doc4:462,;  >DF:1
+
+<information;doc1:0,5,12,20,;  doc2:119,286,303,348,;  >DF:2
+
+<retrieval;doc1:1,;  doc2:3,42,74,126,132,217,;  >DF:2
+
+<computing;doc1:3,;  >DF:1
+
+<science;doc1:6,;  >DF:1
+
+<process;doc1:9,;  doc2:91,;  doc3:116,;  doc4:189,;  >DF:4
+
+<obtaining;doc1:11,;  >DF:1
+
+<system;doc1:13,;  doc2:4,8,314,432,451,;  doc4:104,;  >DF:3
+
+<resources;doc1:14,;  >DF:1
+
+<;doc2:315,;  doc3:2,8,82,101,112,197,206,298,317,;  doc4:227,297,;  >DF:3
+
+<that;doc1:15,;  doc2:66,137,330,368,;  doc3:262,;  doc4:7,201,;  >DF:4
+
+<relevant;doc1:17,;  >DF:1
+
+<need;doc1:21,;  >DF:1
+
+<3d;doc2:1,26,40,49,68,82,102,107,118,124,142,146,198,216,285,306,311,;  doc4:219,271,355,;  >DF:2
+
+<content;doc2:2,41,50,55,69,108,125,;  doc3:252,;  >DF:2
+
+<computer;doc2:7,;  doc3:125,238,296,;  >DF:2
+
+<browsing;doc2:10,;  >DF:1
+
+<searching;doc2:11,;  >DF:1
+
+<retrieving;doc2:13,;  >DF:1
+
+<three;doc2:14,;  >DF:1
+
+<dimensional;doc2:15,;  >DF:1
+
+<digital;doc2:32,;  doc3:251,;  >DF:2
+
+<contents;doc2:103,;  >DF:1
+
+<eg;doc2:17,;  >DF:1
+
+<computer-aided;doc2:18,;  doc3:0,80,314,341,;  >DF:2
+
+<design;doc2:19,;  doc3:1,19,34,85,104,110,131,192,226,303,316,;  doc4:157,369,436,;  >DF:3
+
+<molecular;doc2:20,;  >DF:1
+
+<biology;doc2:21,;  >DF:1
+
+<models;doc2:22,147,199,;  doc3:306,;  doc4:68,325,;  >DF:3
+
+<cultural;doc2:24,;  >DF:1
+
+<heritage;doc2:25,;  >DF:1
+
+<scenes;doc2:27,;  >DF:1
+
+<etcfrom;doc2:28,;  >DF:1
+
+<large;>DF:0
+
+<database;doc2:412,448,;  doc3:43,;  >DF:2
+
+<images;doc2:33,;  >DF:1
+
+<most;doc2:35,345,;  >DF:1
+
+<original;doc2:36,;  doc4:388,;  >DF:2
+
+<way;doc2:37,;  doc4:291,;  >DF:2
+
+<doing;doc2:39,;  >DF:1
+
+<uses;doc2:43,167,;  doc3:132,;  >DF:2
+
+<methods;doc2:44,242,282,;  >DF:1
+
+<add;doc2:46,;  doc4:252,;  >DF:2
+
+<description;doc2:47,409,;  >DF:1
+
+<text;doc2:59,73,99,;  >DF:1
+
+<files;doc2:51,83,;  doc3:70,;  >DF:2
+
+<such;doc2:52,262,426,;  doc4:255,;  >DF:2
+
+<as;doc2:53,263,427,;  doc3:98,108,161,178,;  doc4:45,115,210,256,309,368,444,;  >DF:3
+
+<file;doc2:56,;  >DF:1
+
+<name;doc2:57,;  >DF:1
+
+<link;doc2:58,;  >DF:1
+
+<web;doc2:62,;  >DF:1
+
+<page;doc2:63,;  >DF:1
+
+<title;doc2:64,;  >DF:1
+
+<so;doc2:65,;  >DF:1
+
+<related;doc2:67,;  >DF:1
+
+<can;doc2:226,336,392,419,459,;  doc4:60,84,105,207,319,380,;  >DF:2
+
+<found;doc2:71,;  >DF:1
+
+<through;doc2:72,;  doc3:37,;  doc4:32,;  >DF:3
+
+<because;doc2:75,;  doc3:279,;  >DF:2
+
+<inefficiency;doc2:78,;  >DF:1
+
+<manually;doc2:80,;  doc4:233,;  >DF:2
+
+<annotating;doc2:81,;  >DF:1
+
+<researchers;doc2:84,290,;  >DF:1
+
+<have;doc2:85,127,;  doc4:249,302,;  >DF:2
+
+<investigated;>DF:0
+
+<ways;doc2:115,;  >DF:1
+
+<automate;doc2:88,;  >DF:1
+
+<annotation;doc2:90,;  >DF:1
+
+<provide;doc2:93,;  doc4:183,;  >DF:2
+
+<unified;doc2:95,;  >DF:1
+
+<standard;doc2:96,209,236,;  >DF:1
+
+<create;doc2:98,;  doc3:41,;  >DF:2
+
+<descriptions;doc2:100,;  >DF:1
+
+<moreover;>DF:0
+
+<increase;doc2:105,;  doc3:25,;  >DF:2
+
+<has;doc2:109,;  doc3:286,;  doc4:37,230,241,;  >DF:3
+
+<demanded;doc2:110,;  >DF:1
+
+<inspired;doc2:112,;  >DF:1
+
+<more;doc2:113,220,464,;  doc3:157,230,;  >DF:2
+
+<advanced;doc2:114,;  >DF:1
+
+<retrieve;doc2:117,;  >DF:1
+
+<thus;doc2:120,;  >DF:1
+
+<shape;doc2:121,130,253,347,;  doc4:91,;  >DF:2
+
+<matching;doc2:122,131,169,;  >DF:1
+
+<become;doc2:128,;  >DF:1
+
+<popular;doc2:129,;  >DF:1
+
+<based;doc2:134,;  >DF:1
+
+<techniques;doc2:136,170,;  doc3:271,;  >DF:2
+
+<compare;doc2:138,176,;  >DF:1
+
+<contrast;doc2:140,;  >DF:1
+
+<similarities;>DF:0
+
+<between;doc4:349,;  >DF:1
+
+<modelsthis;doc2:143,;  >DF:1
+
+<method;doc2:144,180,213,218,;  >DF:1
+
+<describes;doc2:145,;  >DF:1
+
+<by;doc2:148,292,352,435,;  doc3:274,;  doc4:383,;  >DF:3
+
+<using;doc2:149,270,280,353,379,423,;  doc4:47,274,421,;  >DF:2
+
+<skeleton;doc2:151,153,212,215,229,360,378,;  >DF:1
+
+<encodes;doc2:154,;  >DF:1
+
+<geometric;doc2:156,;  doc3:305,315,;  doc4:300,423,460,;  >DF:3
+
+<topological;doc2:158,381,;  >DF:1
+
+<form;doc2:161,;  >DF:1
+
+<skeletal;doc2:164,373,441,;  >DF:1
+
+<graph;doc2:165,168,374,391,;  >DF:1
+
+<match;doc2:172,;  >DF:1
+
+<skeletons;doc2:174,;  >DF:1
+
+<them;doc2:177,;  doc4:155,308,;  >DF:2
+
+<however;doc2:178,;  >DF:1
+
+<this;doc2:179,326,;  doc3:20,;  doc4:431,;  >DF:3
+
+<requires;doc2:232,;  >DF:1
+
+<2-manifold;doc2:182,;  >DF:1
+
+<input;doc2:183,207,239,251,;  >DF:1
+
+<model;doc2:184,;  doc4:80,277,415,;  >DF:2
+
+<very;doc2:188,;  >DF:1
+
+<sensitive;doc2:189,;  >DF:1
+
+<noise;doc2:191,;  >DF:1
+
+<details;doc2:193,;  >DF:1
+
+<many;doc2:194,;  doc3:215,229,;  doc4:168,270,;  >DF:3
+
+<existing;doc2:197,;  doc4:2,;  >DF:2
+
+<created;doc2:201,269,304,;  doc4:288,391,;  >DF:2
+
+<visualization;doc2:203,;  >DF:1
+
+<purposes;>DF:0
+
+<while;doc4:458,;  >DF:1
+
+<missing;doc2:205,;  >DF:1
+
+<quality;doc2:208,235,;  >DF:1
+
+<needs;doc2:219,;  >DF:1
+
+<time;doc2:221,;  >DF:1
+
+<effort;doc2:223,;  >DF:1
+
+<before;doc2:224,;  >DF:1
+
+<used;doc3:23,58,190,235,321,;  doc4:62,86,107,;  >DF:2
+
+<widelyunlike;doc2:228,;  >DF:1
+
+<modeling;doc2:230,;  doc4:97,358,;  >DF:2
+
+<which;doc2:231,335,;  doc3:113,340,;  doc4:50,;  >DF:3
+
+<high;doc2:234,;  >DF:1
+
+<source;doc2:240,252,;  >DF:1
+
+<statistical;doc2:241,281,;  >DF:1
+
+<do;doc2:243,;  >DF:1
+
+<not;doc2:244,;  >DF:1
+
+<put;doc2:245,;  >DF:1
+
+<restriction;>DF:0
+
+<validity;doc2:248,;  >DF:1
+
+<histograms;doc2:254,;  >DF:1
+
+<feature;doc2:255,267,424,438,;  doc4:394,417,;  >DF:2
+
+<vectors;doc2:256,268,425,439,;  >DF:1
+
+<composed;doc2:257,;  >DF:1
+
+<global;doc2:259,;  >DF:1
+
+<geo-metic;doc2:260,;  >DF:1
+
+<properties;doc2:261,;  doc4:49,123,;  >DF:2
+
+<circularity;doc2:264,;  >DF:1
+
+<eccentricity;>DF:0
+
+<frequency;doc2:271,;  >DF:1
+
+<decomposition;doc2:272,;  >DF:1
+
+<spherical;doc2:274,;  >DF:1
+
+<functions;doc2:275,;  doc4:446,;  >DF:2
+
+<common;doc2:277,389,;  >DF:1
+
+<examples;doc2:278,;  >DF:1
+
+<describe;doc2:284,421,;  >DF:1
+
+<purdue;doc2:288,;  >DF:1
+
+<university;doc2:289,;  >DF:1
+
+<led;doc2:291,;  >DF:1
+
+<professor;doc2:293,417,;  >DF:1
+
+<karthik;doc2:294,;  >DF:1
+
+<ramani;doc2:295,;  >DF:1
+
+<at;doc2:296,;  >DF:1
+
+<research;doc2:298,;  doc3:293,;  >DF:2
+
+<education;doc2:300,;  >DF:1
+
+<center;doc2:301,;  doc4:402,412,;  >DF:2
+
+<search;doc2:307,313,327,;  >DF:1
+
+<engine;doc2:308,328,;  >DF:1
+
+<called;doc2:309,;  doc3:249,313,;  >DF:2
+
+<engineering;doc2:312,322,;  doc3:169,;  doc4:282,;  >DF:3
+
+<designed;doc2:318,;  doc3:153,;  >DF:2
+
+<find;doc2:320,;  >DF:1
+
+<computer-generated;doc2:321,;  >DF:1
+
+<partsthe;doc2:323,;  >DF:1
+
+<mechanism;doc2:324,;  >DF:1
+
+<behind;doc2:325,;  >DF:1
+
+<starts;doc2:332,;  >DF:1
+
+<algorithm;doc2:334,355,;  >DF:1
+
+<transform;doc2:337,;  >DF:1
+
+<query;doc2:338,457,;  >DF:1
+
+<drawing;doc2:339,;  doc3:120,;  doc4:188,199,237,283,;  >DF:3
+
+<voxels;doc2:341,351,;  >DF:1
+
+<then;doc2:342,;  >DF:1
+
+<extracts;doc2:343,;  >DF:1
+
+<important;doc2:346,;  doc3:210,;  >DF:2
+
+<another;doc2:354,;  >DF:1
+
+<thinning;>DF:0
+
+<formulates;doc2:358,;  >DF:1
+
+<object’s;doc2:363,;  >DF:1
+
+<outlines;doc2:364,;  >DF:1
+
+<topology;doc2:366,;  >DF:1
+
+<after;doc2:367,;  >DF:1
+
+<3dess;doc2:369,418,;  >DF:1
+
+<will;doc2:370,;  doc4:9,;  >DF:2
+
+<develop;doc2:371,;  >DF:1
+
+<render;doc2:376,;  >DF:1
+
+<constructs;doc2:382,390,;  >DF:1
+
+<loops;doc2:383,;  >DF:1
+
+<edges;doc2:384,;  >DF:1
+
+<nodes;doc2:386,;  >DF:1
+
+<processed;doc2:388,;  >DF:1
+
+<reduce;doc2:393,;  >DF:1
+
+<data;doc2:395,444,;  >DF:1
+
+<amount;doc2:396,;  >DF:1
+
+<represent;doc2:398,;  doc4:5,;  >DF:2
+
+<object;doc2:400,462,;  doc4:424,;  >DF:2
+
+<easier;>DF:0
+
+<store;doc2:405,;  >DF:1
+
+<index;doc2:407,;  >DF:1
+
+<according;doc2:413,;  doc3:184,;  >DF:2
+
+<lead;doc2:416,;  >DF:1
+
+<also;doc2:420,;  doc3:89,144,233,320,;  doc4:29,124,;  >DF:3
+
+<objects;doc2:422,;  doc3:138,154,;  doc4:296,315,372,;  >DF:3
+
+<volume;>DF:0
+
+<surface;>DF:0
+
+<area;doc2:429,;  doc4:75,;  >DF:2
+
+<etc;doc2:430,;  doc4:137,;  >DF:2
+
+<processes;doc2:433,;  doc3:180,;  >DF:2
+
+<queries;doc2:434,;  >DF:1
+
+<comparing;doc2:436,;  >DF:1
+
+<their;doc2:437,;  doc4:158,341,344,;  >DF:2
+
+<graphs;doc2:442,;  >DF:1
+
+<with;doc2:443,;  doc3:121,;  doc4:245,;  >DF:3
+
+<stored;doc2:445,;  >DF:1
+
+<when;doc2:449,;  doc3:57,;  >DF:2
+
+<retrieves;>DF:0
+
+<response;doc2:454,;  >DF:1
+
+<users;doc2:458,;  >DF:1
+
+<pick;doc2:460,;  >DF:1
+
+<whichever;doc2:461,;  >DF:1
+
+<looks;doc2:463,;  >DF:1
+
+<similar;doc2:465,;  doc4:264,;  >DF:2
+
+<what;doc2:467,;  doc4:6,364,;  >DF:2
+
+<they;doc2:468,;  >DF:1
+
+<want;doc2:469,;  >DF:1
+
+<leave;doc2:471,;  >DF:1
+
+<feedback;doc2:472,;  >DF:1
+
+<use;doc3:5,91,123,;  doc4:34,154,363,;  >DF:2
+
+<computers;doc3:7,260,;  >DF:1
+
+<aid;doc3:10,;  >DF:1
+
+<creation;doc3:13,253,325,;  doc4:214,;  >DF:2
+
+<modification;doc3:14,;  >DF:1
+
+<analysis;>DF:0
+
+<optimization;doc3:16,;  >DF:1
+
+<software;doc3:21,49,126,128,;  >DF:1
+
+<productivity;doc3:27,;  >DF:1
+
+<designer;doc3:30,;  >DF:1
+
+<improve;doc3:31,35,;  >DF:1
+
+<communications;doc3:36,;  >DF:1
+
+<documentation;doc3:38,;  >DF:1
+
+<manufacturing;doc3:45,76,;  >DF:1
+
+<designs;doc3:46,342,;  doc4:441,;  >DF:2
+
+<made;doc3:47,;  doc4:382,;  >DF:2
+
+<cad;doc3:62,127,174,231,285,318,;  doc4:103,144,;  >DF:2
+
+<helpful;doc3:51,;  >DF:1
+
+<protecting;doc3:53,;  >DF:1
+
+<products;doc3:54,;  >DF:1
+
+<inventions;doc3:56,;  >DF:1
+
+<patent;doc3:60,;  >DF:1
+
+<applications;doc3:61,216,;  >DF:1
+
+<output;doc3:63,172,;  >DF:1
+
+<often;doc3:65,330,;  >DF:1
+
+<electronic;doc3:69,94,99,;  >DF:1
+
+<print;doc3:72,;  >DF:1
+
+<machining;doc3:73,;  >DF:1
+
+<other;doc3:75,;  >DF:1
+
+<operations;doc3:77,;  >DF:1
+
+<terms;doc3:79,;  >DF:1
+
+<drafting;doc3:81,87,141,165,;  doc4:204,226,;  >DF:2
+
+<aided;doc3:84,;  >DF:1
+
+<usedits;doc3:90,;  >DF:1
+
+<designing;doc3:93,;  >DF:1
+
+<systems;doc3:95,;  doc4:272,;  >DF:2
+
+<known;doc3:97,107,;  >DF:1
+
+<automation;doc3:111,;  >DF:1
+
+<mechanical;doc3:103,109,130,;  >DF:1
+
+<includes;doc3:114,;  >DF:1
+
+<creating;>DF:0
+
+<technical;doc3:119,167,247,;  >DF:1
+
+<either;doc3:133,;  >DF:1
+
+<vector-based;doc3:134,;  >DF:1
+
+<graphics;doc3:135,147,297,;  >DF:1
+
+<depict;>DF:0
+
+<traditional;doc3:140,;  >DF:1
+
+<may;doc3:143,188,;  >DF:1
+
+<produce;doc3:145,237,;  >DF:1
+
+<raster;doc3:146,;  >DF:1
+
+<showing;doc3:148,;  >DF:1
+
+<overall;doc3:150,;  >DF:1
+
+<appearance;doc3:151,;  >DF:1
+
+<involves;doc3:156,;  >DF:1
+
+<than;doc3:158,;  doc4:77,;  >DF:2
+
+<just;doc3:159,;  >DF:1
+
+<shapes;doc3:160,;  >DF:1
+
+<manual;doc3:164,;  >DF:1
+
+<drawings;doc3:170,;  >DF:1
+
+<must;doc3:175,;  >DF:1
+
+<convey;doc3:176,;  >DF:1
+
+<materials;doc3:179,;  >DF:1
+
+<dimensions;doc3:181,;  >DF:1
+
+<tolerances;doc3:183,;  >DF:1
+
+<application-specific;doc3:186,;  >DF:1
+
+<conventionscad;doc3:187,;  >DF:1
+
+<curves;doc3:193,200,;  >DF:1
+
+<figures;>DF:0
+
+<two-dimensional;doc3:196,;  doc4:316,;  >DF:2
+
+<space;;doc3:198,;  >DF:1
+
+<surfaces;doc3:201,;  >DF:1
+
+<solids;doc3:203,;  doc4:286,;  >DF:2
+
+<three-dimensional;doc3:205,;  doc4:299,;  >DF:2
+
+<space cad;doc3:207,;  >DF:1
+
+<industrial;doc3:211,223,;  >DF:1
+
+<art;doc3:212,;  >DF:1
+
+<extensively;>DF:0
+
+<including;doc3:217,;  >DF:1
+
+<automotive;doc3:218,;  >DF:1
+
+<shipbuilding;doc3:219,;  >DF:1
+
+<aerospace;doc3:221,;  >DF:1
+
+<industries;doc3:222,;  >DF:1
+
+<architectural;doc3:225,;  >DF:1
+
+<prosthetics;doc3:227,;  >DF:1
+
+<widely;doc3:234,;  >DF:1
+
+<animation;doc3:239,;  >DF:1
+
+<special;doc3:241,;  >DF:1
+
+<effects;doc3:242,;  >DF:1
+
+<movies;doc3:244,;  >DF:1
+
+<advertising;doc3:245,;  >DF:1
+
+<manuals;>DF:0
+
+<dcc;doc3:250,;  >DF:1
+
+<modern;doc3:255,;  >DF:1
+
+<ubiquity;doc3:256,;  >DF:1
+
+<power;doc3:258,;  >DF:1
+
+<means;doc3:261,;  >DF:1
+
+<even;doc3:263,;  >DF:1
+
+<perfume;doc3:264,;  >DF:1
+
+<bottles;doc3:265,;  >DF:1
+
+<shampoo;doc3:267,;  >DF:1
+
+<dispensers;doc3:268,;  >DF:1
+
+<unheard;doc3:272,;  >DF:1
+
+<engineers;doc3:275,;  doc4:44,;  >DF:2
+
+<1960s;doc3:278,;  >DF:1
+
+<its;doc3:281,;  doc4:125,;  >DF:2
+
+<enormous;doc3:282,;  >DF:1
+
+<economic;doc3:283,;  >DF:1
+
+<importance;doc3:284,;  >DF:1
+
+<been;doc3:287,;  doc4:38,;  >DF:2
+
+<major;doc3:289,;  >DF:1
+
+<driving;doc3:290,;  >DF:1
+
+<force;doc3:291,;  >DF:1
+
+<computational;>DF:0
+
+<geometry;doc3:295,;  >DF:1
+
+<discrete;doc3:300,;  >DF:1
+
+<differential;doc3:301,;  >DF:1
+
+<geometrythe;doc3:302,;  >DF:1
+
+<particular;doc3:310,;  >DF:1
+
+<occasionally;doc3:312,;  >DF:1
+
+<accurate;doc3:324,;  >DF:1
+
+<photo;doc3:327,;  >DF:1
+
+<simulations;>DF:0
+
+<required;doc3:331,;  doc4:211,;  >DF:2
+
+<preparation;doc3:334,;  >DF:1
+
+<environmental;doc3:336,;  >DF:1
+
+<impact;doc3:337,;  >DF:1
+
+<reports;doc3:338,;  >DF:1
+
+<intended;doc3:344,;  doc4:396,;  >DF:2
+
+<buildings;doc3:345,;  >DF:1
+
+<superimposed;doc3:347,;  >DF:1
+
+<into;doc3:348,;  doc4:66,235,;  >DF:2
+
+<photographs;doc4:0,;  >DF:1
+
+<environments;doc4:3,;  >DF:1
+
+<locale;doc4:8,;  >DF:1
+
+<like;doc4:11,;  >DF:1
+
+<where;doc4:12,;  >DF:1
+
+<proposed;doc4:14,;  >DF:1
+
+<facilities;doc4:15,;  >DF:1
+
+<allowed;>DF:0
+
+<built;doc4:19,;  >DF:1
+
+<potential;doc4:20,;  >DF:1
+
+<blockage;doc4:21,;  >DF:1
+
+<view;doc4:23,;  >DF:1
+
+<corridors;doc4:24,;  >DF:1
+
+<shadow;doc4:26,;  >DF:1
+
+<studies;doc4:27,;  >DF:1
+
+<frequently;doc4:30,;  >DF:1
+
+<analyzed;doc4:31,;  >DF:1
+
+<proven;doc4:39,;  >DF:1
+
+<useful;doc4:42,;  >DF:1
+
+<well;doc4:46,;  >DF:1
+
+<four;doc4:48,;  >DF:1
+
+<history;doc4:52,59,;  >DF:1
+
+<features;doc4:53,70,100,250,374,;  >DF:1
+
+<parameterization;>DF:0
+
+<high-level;doc4:55,;  >DF:1
+
+<constraints;doc4:56,83,;  >DF:1
+
+<construction;doc4:58,;  >DF:1
+
+<look;doc4:64,;  >DF:1
+
+<back;doc4:65,;  >DF:1
+
+<personal;doc4:69,;  >DF:1
+
+<work;doc4:72,;  >DF:1
+
+<single;doc4:74,;  >DF:1
+
+<rather;doc4:76,;  >DF:1
+
+<whole;doc4:79,;  >DF:1
+
+<parameters;doc4:81,;  >DF:1
+
+<determine;doc4:88,;  >DF:1
+
+<size;doc4:90,;  >DF:1
+
+<different;doc4:96,141,163,;  >DF:1
+
+<elements;doc4:98,;  >DF:1
+
+<variety;doc4:110,;  >DF:1
+
+<tools;doc4:112,331,;  >DF:1
+
+<measurement;>DF:0
+
+<tensile;doc4:116,;  >DF:1
+
+<strength;doc4:117,119,;  >DF:1
+
+<yield;doc4:118,;  >DF:1
+
+<electrical;doc4:120,;  >DF:1
+
+<electromagnetic;doc4:122,;  >DF:1
+
+<stress;doc4:126,;  >DF:1
+
+<strain;doc4:127,;  >DF:1
+
+<timing;doc4:128,;  >DF:1
+
+<how;doc4:130,152,386,;  >DF:1
+
+<element;>DF:0
+
+<gets;>DF:0
+
+<affected;doc4:133,;  >DF:1
+
+<certain;doc4:135,;  >DF:1
+
+<temperatures;doc4:136,;  >DF:1
+
+<there;doc4:138,;  >DF:1
+
+<several;doc4:140,;  >DF:1
+
+<types;doc4:142,353,;  >DF:1
+
+<each;doc4:145,228,;  >DF:1
+
+<requiring;doc4:146,;  >DF:1
+
+<operator;doc4:148,259,361,406,440,;  >DF:1
+
+<think;doc4:150,;  >DF:1
+
+<differently;>DF:0
+
+<about;>DF:0
+
+<virtual;doc4:159,;  >DF:1
+
+<components;doc4:160,339,;  >DF:1
+
+<manner;doc4:164,;  >DF:1
+
+<eachthere;doc4:166,;  >DF:1
+
+<producers;doc4:169,;  >DF:1
+
+<lower-end;doc4:172,;  >DF:1
+
+<2d;doc4:173,225,;  >DF:1
+
+<number;doc4:176,;  >DF:1
+
+<free;doc4:178,;  >DF:1
+
+<open-source;doc4:180,;  >DF:1
+
+<programs;doc4:181,;  >DF:1
+
+<these;doc4:182,206,261,;  >DF:1
+
+<approach;doc4:185,;  >DF:1
+
+<without;doc4:190,;  >DF:1
+
+<all;doc4:191,;  >DF:1
+
+<fuss;doc4:193,;  >DF:1
+
+<over;doc4:194,;  >DF:1
+
+<scale;doc4:195,;  >DF:1
+
+<placement;>DF:0
+
+<sheet;doc4:200,;  >DF:1
+
+<accompanied;doc4:202,;  >DF:1
+
+<hand;doc4:203,;  >DF:1
+
+<since;doc4:205,;  >DF:1
+
+<adjusted;doc4:209,;  >DF:1
+
+<during;doc4:212,;  >DF:1
+
+<final;doc4:217,239,281,;  >DF:1
+
+<draft;doc4:218,;  >DF:1
+
+<wireframe;doc4:220,276,;  >DF:1
+
+<basically;>DF:0
+
+<extension;doc4:223,;  >DF:1
+
+<line;doc4:229,;  >DF:1
+
+<inserted;doc4:234,;  >DF:1
+
+<product;doc4:240,;  >DF:1
+
+<no;doc4:242,;  >DF:1
+
+<mass;>DF:0
+
+<associated;doc4:244,;  >DF:1
+
+<cannot;doc4:248,;  >DF:1
+
+<directly;doc4:251,;  >DF:1
+
+<holes;doc4:257,;  >DF:1
+
+<approaches;doc4:260,;  >DF:1
+
+<fashion;doc4:265,;  >DF:1
+
+<although;doc4:269,;  >DF:1
+
+<allow;doc4:273,334,;  >DF:1
+
+<make;doc4:279,453,;  >DF:1
+
+<views3d;doc4:284,;  >DF:1
+
+<dumb;doc4:285,;  >DF:1
+
+<analogous;>DF:0
+
+<manipulations;doc4:293,;  >DF:1
+
+<real-world;doc4:295,314,;  >DF:1
+
+<basic;doc4:298,326,;  >DF:1
+
+<forms;doc4:301,;  >DF:1
+
+<solid;doc4:303,356,;  >DF:1
+
+<volumes;>DF:0
+
+<added;>DF:0
+
+<subtracted;doc4:306,;  >DF:1
+
+<assembling;doc4:311,;  >DF:1
+
+<cutting;doc4:313,;  >DF:1
+
+<projected;doc4:317,;  >DF:1
+
+<views;doc4:318,;  >DF:1
+
+<easily;doc4:320,333,;  >DF:1
+
+<generated;doc4:322,;  >DF:1
+
+<dont;doc4:328,;  >DF:1
+
+<usually;doc4:329,;  >DF:1
+
+<include;doc4:330,;  >DF:1
+
+<motion;doc4:336,345,;  >DF:1
+
+<set;doc4:340,;  >DF:1
+
+<limits;doc4:342,;  >DF:1
+
+<identify;doc4:347,;  >DF:1
+
+<interference;doc4:348,;  >DF:1
+
+<two;doc4:352,;  >DF:1
+
+<modelingparametric;doc4:357,;  >DF:1
+
+<allows;doc4:359,;  >DF:1
+
+<referred;doc4:366,;  >DF:1
+
+<intent;doc4:370,437,;  >DF:1
+
+<modifiable;>DF:0
+
+<any;doc4:377,422,;  >DF:1
+
+<future;doc4:378,;  >DF:1
+
+<modifications;doc4:379,;  >DF:1
+
+<changing;doc4:384,;  >DF:1
+
+<part;doc4:389,429,443,457,;  >DF:1
+
+<was;doc4:390,395,;  >DF:1
+
+<located;doc4:399,420,;  >DF:1
+
+<should;doc4:407,;  >DF:1
+
+<locate;doc4:408,;  >DF:1
+
+<could;doc4:418,;  >DF:1
+
+<already;doc4:425,;  >DF:1
+
+<available;doc4:426,;  >DF:1
+
+<but;doc4:430,;  >DF:1
+
+<random;doc4:432,;  >DF:1
+
+<would;>DF:0
+
+<defeat;doc4:434,;  >DF:1
+
+<parametric;doc4:448,;  >DF:1
+
+<modeler;doc4:449,;  >DF:1
+
+<able;doc4:451,;  >DF:1
+
+<changes;doc4:454,;  >DF:1
+
+<maintaining;doc4:459,;  >DF:1
+
+<functional;>DF:0
+
+<relationships;doc4:462,;  >DF:1
+

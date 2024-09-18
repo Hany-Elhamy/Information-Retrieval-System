@@ -1,0 +1,18 @@
+It did not eliminate departments as much as it merged departments and empowered draftsmen, designers, and engineers.
+CAD is an example of the pervasive effect computers were beginning to have on the industry. Current computer-aided design
+software packages range from 2D vector-based drafting systems to 3D solid and surface modelers. Modern CAD packages can also
+frequently allow rotations in three dimensions, allowing viewing of a designed object from any desired angle, even from the inside
+looking out. Some CAD software is capable of dynamic mathematical modeling.CAD technology is used in the design of tools and machinery
+and in the drafting and design of all types of buildings, from small residential types to the largest commercial and industrial
+structures.CAD is mainly used for detailed engineering of 3D models or 2D drawings of physical components, but i
+is also used throughout the engineering process from conceptual design and layout of products, through strength and dynamic analysis of assemblie
+to definition of manufacturing methods of components. It can also be used to design objects such as jewelry, furniture, appliances, etc. Furthermore,
+many CAD applications now offer advanced rendering and animation capabilities so engineers can better visualize their product designs. 4D BIM is a type of
+virtual construction engineering simulation incorporating time or schedule-related information for project management.CAD has become an especially
+important technology within the scope of computer-aided technologies, with benefits such as lower product development costs and a greatly shortened design
+cycle. CAD enables designers to layout and develop work on screen, print it out and save it for future editing, saving time on their drawings.
+CAD software enables engineers and architects to design, inspect and manage engineering projects within an integrated graphical user interface
+on a personal computer system. Most applications support solid modeling with boundary representation and NURBS geometry, and enable
+the same to be published in a variety of formats. A geometric modeling kernel is a software component that provides solid modeling and surface modeling
+features to CAD applications.Based on market statistics, commercial software from Autodesk, Dassault Systems, Siemens PLM Software, and PTC dominate the
+CAD industry. The following is a list of major CAD applications, grouped by usage statistics. 

@@ -1,0 +1,16 @@
+Lisa is a desktop computer developed by Apple, released on January 19, 1983. It is one of the first personal computers to present a
+graphical user interface in a machine aimed at individual business users. Its development began in 1978. It underwent many changes
+before shipping at US$9,995 with a five-megabyte hard drive. It was affected by its high price, insufficient
+software, unreliable Apple FileWare floppy disks, and the immediate release of the cheaper and faster Macintosh. Only 10,000 were sold in two years.
+Considered a commercial failure, Lisa introduced a number of advanced features that reappeared on the Macintosh
+and eventually IBM PC compatibles. Among them is an operating system with protected memory and a document-oriented workflow. The hardware was more
+advanced overall than the forthcoming Macintosh 128K; the Lisa included hard disk drive support, capacity for up to 2 megabytes of random-access memory,
+expansion slots, and a larger, higher-resolution display.The complexity of the Lisa operating system and its associated programs,
+as well as the ad hoc protected memory implementation, placed a high demand on the CPU and, to some extent, the storage system.
+As a result of cost-cutting measures designed to bring it more into the consumer market, advanced software, and factors such as the delayed availability of the 68000
+and its impact on the design process, Lisa's user experience feels sluggish overall. The workstation-tier price 
+and lack of a technical software application library made it a difficult sell for much of the technical workstation market. Compounding matters, the runaway success
+of the IBM PC and Apple's decision to compete with itself, mainly via the lower-cost Macintosh, were further impediments to its acceptance.In 1982, after Steve Jobs
+was forced out of the Lisa project by Apple's board of directors, he appropriated the Macintosh project from Jef Raskin, who had originally conceived of a sub-$1,000 text-based
+appliance computer in 1979. Jobs immediately redefined Macintosh as a less expensive and more focused version of the graphical Lisa.
+

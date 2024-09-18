@@ -1,0 +1,22 @@
+photographs of existing environments to represent what that locale will be like, where the proposed facilities are allowed
+to be built. Potential blockage of view corridors and shadow studies are also frequently analyzed through the use of CAD.
+CAD has been proven to be useful to engineers as well. Using four properties which are history, features, parameterization,
+and high-level constraints. The construction history can be used to look back into the model's personal features and work on
+the single area rather than the whole model. Parameters and constraints can be used to determine the size, shape, and other
+properties of the different modeling elements. The features in the CAD system can be used for the variety of tools for measurement
+such as tensile strength, yield strength, electrical, or electromagnetic properties. Also its stress, strain, timing, or how the element
+gets affected in certain temperatures, etc. There are several different types of CAD, each requiring the operator to think differently
+about how to use them and design their virtual components in a different manner for each.There are many producers of the lower-end 2D systems,
+including a number of free and open-source programs. These provide an approach to the drawing process without all the fuss over scale and placement
+on the drawing sheet that accompanied hand drafting since these can be adjusted as required during the creation of the final draft. 3D wireframe is
+basically an extension of 2D drafting . Each line has to be manually inserted into the drawing. The final product has no mass
+properties associated with it and cannot have features directly add to it, such as holes. The operator approaches these in a similar fashion to the 2D
+systems, although many 3D systems allow using the wireframe model to make the final engineering drawing views.3D "dumb" solids are created in a way analogous
+to manipulations of real-world objects . Basic three-dimensional geometric forms have solid volumes
+added or subtracted from them as if assembling or cutting real-world objects. Two-dimensional projected views can easily be generated from the models. Basic 3D
+solids don't usually include tools to easily allow the motion of the components, set their limits to their motion, or identify interference between components.
+There are two types of 3D solid modelingParametric modeling allows the operator to use what is referred to as "design intent". The objects and features are created
+modifiable. Any future modifications can be made by changing on how the original part was created. If a feature was intended to be located from the center of the part,
+the operator should locate it from the center of the model. The feature could be located using any geometric object already available in the part, but this random placement
+would defeat the design intent. If the operator designs the part as it functions the parametric modeler is able to make changes to the part while maintaining geometric and
+functional relationships.  

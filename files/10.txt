@@ -1,0 +1,12 @@
+When Macintosh launched in January 1984, it quickly surpassed Lisa's sluggish sales. Jobs then began assimilating increasing numbers
+of Lisa staff, as he had done with the Apple II division after assuming control over Raskin's project. Newer Lisa models were eventually
+introduced to address its shortcomings but, even after lowering the list price considerably, the platform failed to achieve favorable sales
+numbers compared to the much less expensive Mac. The final model, the Lisa 2/10, was rebranded as the Macintosh XL to become the high-end model
+in the Macintosh series. Though the documentation shipped with the original Lisa only refers to it as "The Lisa", Apple officially stated that
+the name was an acronym for "Locally Integrated Software Architecture" or "LISA". Because Steve Jobs's first daughter was named Lisa Nicol
+Brennan , it was sometimes inferred that the name also had a personal association, and perhaps that the acronym was a backronym
+invented later to fit the name. Andy Hertzfeld states the acronym was reverse engineered from the name "Lisa" in late 1982 by the Apple marketing
+team, after they had hired a marketing consultancy firm to come up with names to replace "Lisa" and "Macintosh" 
+and then rejected all of the suggestions. Privately, Hertzfeld and the other software developers used "Lisa: Invented Stupid Acronym", a recursive
+backronym, while computer industry pundits coined the term "Let's Invent Some Acronym" to fit the Lisa's name. Decades later, Jobs would tell his
+biographer Walter Isaacson: "Obviously it was named for my daughter.
